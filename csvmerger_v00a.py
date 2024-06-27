@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 # Source directory path
-source_dir = r"C:\Users\Abdul\Downloads\SL_COUNTRY_LEVEL_based (1)\SL_COUNTRY_LEVEL_based\SLCL_ID"
+source_dir = r"C:\Users\Abdul\Downloads\SL_COUNTRY_LEVEL_based (1)\SL_COUNTRY_LEVEL_based\SLCL_MY"
 
 # Function to remove file extension
 def remove_extension(filename):
