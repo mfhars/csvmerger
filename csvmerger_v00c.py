@@ -3,9 +3,9 @@ import os
 from datetime import datetime
 
 # Source directory path
-source_dir = r"C:\Users\Abdul\Downloads\SL_COUNTRY_LEVEL_based (1)\SL_COUNTRY_LEVEL_based\SLCL_ID"
+source_dir = r"C:\Users\pingk\OneDrive - Chulalongkorn University\RandomDatas\FIKSASI\SPECTROCHEMPY\CSV_files\MiddleBox_file terkonversi ke CSV\RT_11\SPA and CSV\MIXED_DATE\RT_11"
 # Output directory path
-output_dir = r"C:\Users\Abdul\Downloads\SL_COUNTRY_LEVEL_based (1)\SL_COUNTRY_LEVEL_based\merged box"
+output_dir = r"C:\Users\pingk\Downloads\fadhli nitip\fadhli nitip"
 
 # Function to remove file extension
 def remove_extension(filename):
